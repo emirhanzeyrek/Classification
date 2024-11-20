@@ -1,5 +1,5 @@
 # Classification
-With its user-friendly interface, it analyzes the given image to determine its class. Model training was performed using a CNN model in MATLAB.
+An application that processes a dataset using deep learning to create a model, which then identifies the class of given images through a user-friendly interface.
 
 ## Technologies
 * Development Environment: MATLAB
